@@ -251,6 +251,4 @@ Unit tests are provided for all service layer classes using JUnit 5 and Mockito:
 
 ---
 
-## 📄 License
 
-This project was developed as part of a training/capstone project. Feel free to fork and adapt it for learning purposes.
