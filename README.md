@@ -106,7 +106,7 @@ revshop/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/nithin2228/revshop.git
+git clone https://github.com/nithin2228/Revshop-p2.git
 cd revshop
 ```
 
