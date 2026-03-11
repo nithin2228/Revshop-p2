@@ -1,5 +1,7 @@
 HELP.md
 target/
+logs/
+product-images/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
